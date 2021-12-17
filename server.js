@@ -7,13 +7,13 @@ var app=express();
 
 var onDefault=function(req,res)
 {
-res.send("<h1> KnowIt </h1>"+
+res.send("<h1> DataSherpa </h1>"+
           "<hr/>"+
 		  "<ol>"+
-		  "<li> Mentoring for skill building</li>"+
-		   "<li> Workshops</li>"+
-		    "<li> Online cources</li>"+
-			 "<li>Dac cources</li>"
+		  "<li> Big data technologies</li>"+
+		   "<li> python</li>"+
+		    "<li> machine learning</li>"+
+			 "<li>AI</li>"
 );
 };
 
